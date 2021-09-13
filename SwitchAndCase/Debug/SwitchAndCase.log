@@ -1,0 +1,4 @@
+﻿  가감승제.c
+D:\WORK\C_workspace\SwitchAndCase\가감승제.c(5,35): warning C4101: 'number' :참조되지 않은 지역 변수입니다.
+D:\WORK\C_workspace\SwitchAndCase\가감승제.c(5,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  SwitchAndCase.vcxproj -> D:\WORK\C_workspace\SwitchAndCase\Debug\SwitchAndCase.exe
